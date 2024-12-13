@@ -1,5 +1,5 @@
-const oa_name = "张洪Heo";
-const oa_description = "分享设计与科技生活";
+const oa_name = "AIList";
+const oa_description = "只收集高质量的AI工具";
 const web_beian = "京ICP备19051325号-2";
 
 function replaceText(elementId, newText) {
